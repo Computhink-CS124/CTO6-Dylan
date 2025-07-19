@@ -9,12 +9,7 @@ function draw() {
   // Challenge 1: An eye using ellipse() function
 
   // Challenge 2: A face using circle() function
-  circle(300,200,200)
-  circle(200,100,100)
-  circle(400,100,100)
-  circle(250,150,50)
-  circle(350,150,50)
-  ellipse(300,200,100,50)
+
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
