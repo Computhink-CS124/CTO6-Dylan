@@ -6,7 +6,8 @@ createCanvas(600,400)
 background(111);
 }
 function draw() {
-  eclipse(100,100,80)
+  eclipse(100,100,80,50);
+  eclipse(100,100,80,50);
   // Challenge 1: An eye using ellipse() function
 
   // Challenge 2: A face using circle() function
