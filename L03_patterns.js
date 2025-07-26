@@ -9,7 +9,7 @@ function setup() {
 function draw() {
   let spacing = 50;
 for (let i = 1; i < 5; i++){
-  circle( + i * 50,100,40);
+  circle(spacing + i * 50,100,40);
   fill(i*80,i*80,i*80);
 }
   // Recap 1: Repeating Circles}
