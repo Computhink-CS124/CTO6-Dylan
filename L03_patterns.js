@@ -1,3 +1,5 @@
+const { Children } = require("react");
+
 function setup() {
     createCanvas(600, 400);
     background(220);
@@ -8,7 +10,7 @@ function draw() {
   // Recap 1: Repeating Circles
 
   // Task 1: Colour Gradient
-  circle
+  Children
   // Task 2: Colour Loop
 
   // Task 3: Row of Circles
