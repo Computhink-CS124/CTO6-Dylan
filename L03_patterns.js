@@ -10,10 +10,8 @@ function draw() {
   let spacing = 120;
 for (let i = 0; i < 5; i++){
   if (i % 2 ===0){
-    fill(0)
-    
-    
-  }
+    fill(255)
+  }else
   Fill
 
 
