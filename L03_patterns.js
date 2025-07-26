@@ -10,7 +10,7 @@ function draw() {
   let spacing = 120;
 for (let i = 0; i < 5; i++){
   circle(100,100,100);
-  fill(colourValue);
+  fill(1*255);
   colourValue +=1;
 }
   // Recap 1: Repeating Circles}
