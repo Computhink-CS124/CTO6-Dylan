@@ -7,10 +7,10 @@ function setup() {
   }
   
 function draw() {
+for (let i = 0; 1 < 5; i++){}
   // Recap 1: Repeating Circles
 
   // Task 1: Colour Gradient
-Fill(0,0,0);
 
   // Task 2: Colour Loop
 
