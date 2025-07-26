@@ -9,8 +9,12 @@ function setup() {
 function draw() {
   let spacing = 120;
 for (let i = 0; i < 5; i++){
-  circle(100,100,100);
-  fill(1*255);
+  if (i % 2 ===0){
+    
+  }
+  Fill
+
+
   colourValue +=1;
 }
   // Recap 1: Repeating Circles}
