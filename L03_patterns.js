@@ -7,7 +7,7 @@ function setup() {
   }
   
 function draw() {
-  let spacing = 50;
+  let spacing = 120;
 for (let i = 0; i < 5; i++){
   circle(spacing + i * spacing,100,40);
   fill(colourValue);
