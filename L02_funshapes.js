@@ -7,11 +7,12 @@ background(220);
 }
 function draw() {
   // Challenge 1: An eye using ellipse() function
+FileList()
 ellipse(200,200,75,50)
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
-fill(0,0,0)
+
 triangle(20,40,75,40,57,32)
 triangle(30,75,58,20,86,75)
   // Challenge 4: A rocketship using triangle() function
