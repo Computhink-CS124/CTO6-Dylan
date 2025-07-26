@@ -11,6 +11,7 @@ function draw() {
 
   // Task 1: Colour Gradient
   Circle(75,200,100)
+    Circle(75,200,100)
   // Task 2: Colour Loop
 
   // Task 3: Row of Circles
