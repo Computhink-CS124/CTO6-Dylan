@@ -8,7 +8,7 @@ function setup() {
   
 function draw() {
 for (let i = 0; 1 < 5; i++){
-  cle(50 + i * 50,100,40);
+  cir(50 + i * 50,100,40);
 }
   // Recap 1: Repeating Circles}
 
