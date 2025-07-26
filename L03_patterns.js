@@ -7,7 +7,7 @@ function setup() {
   }
   
 function draw() {
-for (let i = 0; 1 < 5; i++){
+for (let i = 1; 1 < 5; i++){
   circle(50 + i * 50,100,40);
 }
   // Recap 1: Repeating Circles}
