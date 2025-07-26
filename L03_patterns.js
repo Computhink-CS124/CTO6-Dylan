@@ -1,7 +1,7 @@
 const { Children } = require("react");
 
 function setup() {
-    createCanvas(600, 400);
+    createCanvas(400,);
     background(220);
     noLoop(); // Stops continuous drawing
   }
