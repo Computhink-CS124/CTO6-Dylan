@@ -9,7 +9,7 @@ function setup() {
 function draw() {
   let spacing = 120;
 for (let i = 0; i < 5; i++){
-  circle(spacing + i * spacing,100,40);
+  circle(100,100,100);
   fill(colourValue);
   colourValue +=1;
 }
