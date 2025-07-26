@@ -13,6 +13,7 @@ function draw() {
   Circle(75,200,100)
     Circle(225,200,100)
         Circle(375,200,100)
+                Circle(525,200,100)
   // Task 2: Colour Loop
 
   // Task 3: Row of Circles
