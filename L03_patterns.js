@@ -7,7 +7,9 @@ function setup() {
   }
   
 function draw() {
-for (let i = 0; 1 < 5; i++){}
+for (let i = 0; 1 < 5; i++){
+  CSSNumericValue(50 + i *50,100,40)
+}
   // Recap 1: Repeating Circles
 
   // Task 1: Colour Gradient
