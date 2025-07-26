@@ -1,4 +1,4 @@
-
+let colourValue = 0;
 
 function setup() {
     createCanvas(600,400);
