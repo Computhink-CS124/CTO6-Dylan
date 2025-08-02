@@ -20,7 +20,7 @@ function draw() {
     for(let i = 0; i < numOFCircles; i++){
       let x = startX + i * circlediameter;
       ellipse (x,rowY,circlediameter,circlediameter );
-    // circle(x,height/2,circlediameter);
+      // circle(x,height/2,circlediameter);
       // fill(250,0,0);
     }
 
