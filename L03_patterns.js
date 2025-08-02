@@ -17,11 +17,11 @@ function draw() {
   let startY = (height - totalwidth)/2 + circlediameter/2;
   for(let row = 0; row < numOFCircles; row++){
     let rowY = startY + (circlediameter * rowY);
-   for(let i = 0; i < numOFCircles; i++){
-    let x = startX + i * circlediameter;
-    ellipse (startX,height/2,circlediameter,circlediameter);
+  for(let i = 0; i < numOFCircles; i++){
+  let x = startX + i * circlediameter;
+  ellipse (startX,height/2,circlediameter,circlediameter);
     // circle(x,height/2,circlediameter);
-    fill(250,0,0);
+  fill(250,0,0);
     }
 
   }
