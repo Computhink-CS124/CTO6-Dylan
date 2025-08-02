@@ -13,7 +13,7 @@ function draw() {
   let circlediameter = 30;
   let numOFCircles = 5;
   let totalwidth = circlediameter * numOFCircles;
-  let S
+  let startX = width - totalwidth
   }
 
 
