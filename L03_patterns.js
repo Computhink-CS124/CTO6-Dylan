@@ -21,7 +21,7 @@ function draw() {
       let x = startX + i * circlediameter;
       ellipse (x,rowY,circlediameter,circlediameter );
       // circle(x,height/2,circlediameter);
-      // fill(250,0,0);
+      fill(250,0,0);
     }
 
   }
