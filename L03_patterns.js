@@ -10,7 +10,7 @@ width = 100
 function draw() {
 rect(50,100,100);
 circle(width/2, height/2,50);
-fill(100,100,100)
+fill(100,100,100);
   }
 
 
