@@ -1,26 +1,22 @@
 let colourValue = 0;
 
 function setup() {
-    createCanvas(600,400);
+    createCanvas(800,400);
     background(220);
     // noLoop(); // Stops continuous drawing
   }
-  
+height=50
+width = 100
 function draw() {
-  let spacing = 120;
-for (let i = 0; i < 5; i++){
-  if (i % 2 ===0){
-    fill(255);
-  }else{
-    fill(0);
+Rect(50,100,100);
+circle(width/2, height/2,50)
   }
   Fill
 
 
-  colourValue +=1;
-}
+
+
   // Recap 1: Repeating Circles}
 
 
 
-}
