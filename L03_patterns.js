@@ -15,10 +15,12 @@ function draw() {
   let totalwidth = circlediameter * numOFCircles;
   let startX = (width - totalwidth)/2 + circlediameter/2;
   let startY = (height - totalwidth)/2 + circlediameter/2;
+   for(let row = 0; row < numOFCircles; row++){
+
+}
 
 
 
-  
   for(let i = 0; i < numOFCircles; i++){
     let x = startX + i * circlediameter;
     ellipse (startX,height/2,circlediameter,circlediameter);
