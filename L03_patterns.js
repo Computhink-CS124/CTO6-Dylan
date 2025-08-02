@@ -8,7 +8,7 @@ function setup() {
 height=50
 width = 100
 function draw() {
-Rect(50,100,100);
+rect(50,100,100);
 circle(width/2, height/2,50)
 fill
   }
