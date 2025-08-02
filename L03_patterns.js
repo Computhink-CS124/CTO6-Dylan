@@ -19,8 +19,6 @@ function draw() {
     let rowY = startY + (circlediameter * rowY);
 }
 
-
-
   for(let i = 0; i < numOFCircles; i++){
     let x = startX + i * circlediameter;
     ellipse (startX,height/2,circlediameter,circlediameter);
