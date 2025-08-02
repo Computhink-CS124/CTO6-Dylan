@@ -15,6 +15,9 @@ function draw() {
   let totalwidth = circlediameter * numOFCircles;
   let startX = (width - totalwidth)/2 + circlediameter/2;
   let startY = (height - totalwidth)/2 + circlediameter/2;
+
+
+
   
   for(let i = 0; i < numOFCircles; i++){
     let x = startX + i * circlediameter;
