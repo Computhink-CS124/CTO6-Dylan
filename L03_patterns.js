@@ -7,9 +7,9 @@ function setup() {
   }
 
 function draw() {
-rect(50,100,100);
-circle(width/2, height/2,100);
-fill(100,100,100);
+  rect(50,100,100);
+  circle(width/2, height/2,100);
+  fill(100,100,100);
   }
 
 
