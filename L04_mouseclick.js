@@ -21,5 +21,5 @@ function mouseReleased(){
 shapeColor = color(random(255), random(255),random(255))
 }
 function mouseMoved(){
-  circlesize+=2;
+  circlesize+=2
 }
