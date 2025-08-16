@@ -6,7 +6,7 @@ function setup() {
   }
   function draw(){
     ellipse(200,200,80,80)
-    fill()
+    fill(0,255,0)
 
 
   }
