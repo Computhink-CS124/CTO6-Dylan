@@ -27,5 +27,5 @@ x2=random(width)
 x3=random(width)
 y1=random(height)
 y2=random(height)
-y2=random(height)
+y3=random(height)
 
