@@ -23,9 +23,9 @@ shapeColor = color(random(255), random(255),random(255))
 }
 
 x1=random(width)
-x2=random(wi)
+x2=random(width)
 x3=random(width)
-y1=random(width)
+y1=random(height)
   
 
 
