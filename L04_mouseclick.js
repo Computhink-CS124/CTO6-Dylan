@@ -7,10 +7,10 @@ function setup() {
   }
 
 function draw(){
-    triangle(200,200,120,5.120);
+    
     fill(shapecolour);
     if(mouseispressed){
-      triangle
+      triangle()
     }
   }
 function mousePressed(){
