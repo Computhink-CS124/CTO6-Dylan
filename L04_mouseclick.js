@@ -9,12 +9,12 @@ function setup() {
 function draw(){
     triangle(200,200,120,5.120);
     fill(shapecolour);
-    function mousePressed(){
+   
+  }
+function mousePressed(){
     shapecolour = color(random(255),random(255),random(255))
     
 }
 function mouseReleased(){
     shapecolour = color(random(255),random(255),random(255))
 }
-  }
-
