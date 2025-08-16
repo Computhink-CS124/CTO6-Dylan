@@ -1,5 +1,5 @@
 // write your codes here
-let shapeColor = 
+let shapeColor = 'blue';
 let circleSize = 20
 function setup(){
 createCanvas(400,400)
