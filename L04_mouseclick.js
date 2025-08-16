@@ -9,7 +9,7 @@ function setup() {
 function draw(){
     triangle(200,200,120,5.120);
     fill(shapecolour);
-   
+    if(mouseispressed)
   }
 function mousePressed(){
     shapecolour = color(random(255),random(255),random(255))
