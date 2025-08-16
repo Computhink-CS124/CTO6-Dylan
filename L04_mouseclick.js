@@ -6,8 +6,8 @@ function setup() {
     // noLoop(); // Stops continuous drawing
   }
   function draw(){
-    ellipse(200,200,80,80)
-    fill(shapecolor)
+    ellipse(200,200,80,80);
+    fill(shapecolor);
   }
 function mousepressed(){
     shapecolor='red';
