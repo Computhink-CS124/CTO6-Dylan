@@ -5,7 +5,6 @@ function setup() {
     background(200);
     // noLoop(); // Stops continuous drawing
   }
-let x1,y1,y2,width,height
 function draw(){
     
     fill(shapecolour);
