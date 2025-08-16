@@ -12,3 +12,6 @@ function setup() {
 function mousepressed(){
     shapecolor='red';
 }
+function mouseReleased(){
+    
+}
