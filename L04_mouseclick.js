@@ -12,6 +12,7 @@ function draw(){
     fill(shapecolour);
     function mousePressed(){
     shapecolour = color(random(255),random(255),random(255))
+    triangle()
 }
 function mouseReleased(){
     shapecolour = color(random(255),random(255),random(255))
