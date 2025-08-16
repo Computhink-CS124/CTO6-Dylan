@@ -14,12 +14,12 @@ background(200);
 
 function mousePressed(){
 shapeColor = color(random(255), random(255),random(255))
-circlesize += 20
+circlesize += 20;
 }
 
 function mouseReleased(){
 shapeColor = color(random(255), random(255),random(255))
 }
 function mouseMoved(){
-  circlesize+=2
+  circlesize+=2;
 }
