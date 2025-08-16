@@ -9,7 +9,9 @@ background(200);
 
 function draw(){
 fill(shapeColor);
-
+if(mouseispressed){
+  
+}
 }
 
 function mousePressed(){
