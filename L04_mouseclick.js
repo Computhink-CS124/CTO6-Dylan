@@ -1,5 +1,5 @@
 // write your codes here
-let shapecolor="blue"
+let shapecolor="blue";
 function setup() {
     createCanvas(400,400);
     background(200);
@@ -7,7 +7,7 @@ function setup() {
   }
   function draw(){
     ellipse(200,200,80,80)
-    fill()
+    fill(shapecolor)
 
 
   }
