@@ -1,5 +1,5 @@
 // write your codes here
-let shapecolor='blue';
+let shapecolor='red';
 function setup() {
     createCanvas(400,400);
     background(200);
@@ -10,7 +10,7 @@ function setup() {
     fill(shapecolor);
   }
 function mousePressed(){
-    shapecolor='red';
+    shapecolor='blue';
 }
 function mouseReleased(){
     shapecolor = 'blue';
