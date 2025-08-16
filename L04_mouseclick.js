@@ -13,6 +13,7 @@ ellipse(200,200,80,80)
 
 function mousePressed(){
 shapeColor = color(random(255), random(255),random(255))
+circlesize += 20
 }
 
 function mouseReleased(){
