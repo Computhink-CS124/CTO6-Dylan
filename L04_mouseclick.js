@@ -10,7 +10,7 @@ function draw(){
     
     fill(shapecolour);
     if(mouseispressed){
-      triangle()
+      triangle(x1,y1,y2,width,height)
     }
   }
 function mousePressed(){
