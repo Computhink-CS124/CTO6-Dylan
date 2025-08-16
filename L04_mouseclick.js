@@ -24,8 +24,9 @@ function mouseMoved(){
   circlesize+=2;
 }
 function mouseDragged(){
+  
   fill(shapeColor);
-  circleSize = (random(10,50))
+  circleSize = random(10,50)
   ellipse(mouseX,mouseY,circleSize,circleSize)
   
   
