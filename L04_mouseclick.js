@@ -8,7 +8,7 @@ function setup() {
   }
 
 function draw(){
-    triangle(200,200,120,5);
+    triangle(200,200,120,5.120);
     fill(shapecolour);
     
   }
