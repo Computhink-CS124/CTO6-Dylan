@@ -8,7 +8,5 @@ function setup() {
   function draw(){
     ellipse(200,200,80,80)
     fill(shapecolor)
-
-
   }
-  
+function mousepressed()
