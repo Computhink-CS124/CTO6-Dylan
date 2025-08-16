@@ -10,5 +10,5 @@ function setup() {
     fill(shapecolor)
   }
 function mousepressed(){
-    shapecolor
+    shapecolor="red"
 }
