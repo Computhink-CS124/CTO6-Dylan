@@ -1,4 +1,5 @@
 // write your codes here
+let
 function setup() {
     createCanvas(400,400);
     background(200);
@@ -6,7 +7,7 @@ function setup() {
   }
   function draw(){
     ellipse(200,200,80,80)
-    fill(0,255,0)
+    fill()
 
 
   }
