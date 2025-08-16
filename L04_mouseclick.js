@@ -5,7 +5,7 @@ function setup() {
     // noLoop(); // Stops continuous drawing
   }
   function draw(){
-
+    ellipse(200,200,80,80)
 
 
 
