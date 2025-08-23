@@ -4,5 +4,5 @@ background(200);
 }
 
 function mousePressed () {
-    
+    ellipse()
 }
