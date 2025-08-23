@@ -1,4 +1,4 @@
-let shapeColor = "blue"
+let shapeColor = " "
 let shapeSize = 5
 
 
@@ -10,6 +10,7 @@ background(200);
 function mouseDragged () {
     shapeSize += 0.5;
     ellipse(mouseX,mouseY,shapeSize,shapeSize)
+    FileList(shapeColor)
 }
 function mouseReleased () {
     shapeColor = (random(255),random(255),random(255))
