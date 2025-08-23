@@ -8,7 +8,7 @@ background(200);
 }
 
 function mouseDragged () {
-    shapeSize + 5
+    shapeSize += 50;
     ellipse(mouseX,mouseY,shapeSize,shapeSize)
 }
 function mouseReleased () {
