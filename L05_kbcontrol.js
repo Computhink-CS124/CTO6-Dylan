@@ -1,5 +1,4 @@
-
-let shapeSize = 5;
+let rectsi
 
 
 function setup(){
@@ -11,7 +10,7 @@ function draw() {
 
 
 }
-function keyDragged () {
+function keyReleased () {
     
     
 
