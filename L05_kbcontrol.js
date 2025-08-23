@@ -12,5 +12,5 @@ function mouseDragged () {
     ellipse(mouseX,mouseY,shapeSize,shapeSize)
 }
 function mouseReleased () {
-
+    shapeColor = 
 }
