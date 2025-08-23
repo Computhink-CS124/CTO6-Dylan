@@ -7,7 +7,7 @@ createCanvas(600,400)
 background(200);
 }
 
-function mousePressed () {
-    shapeSize + 0.5
+function mouseDragged () {
+    shapeSize + 5
     ellipse(mouseX,mouseY,shapeSize,shapeSize)
 }
