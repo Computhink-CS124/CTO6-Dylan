@@ -12,5 +12,5 @@ function mouseDragged () {
     ellipse(mouseX,mouseY,shapeSize,shapeSize)
 }
 function mouseReleased () {
-    shapeColor = random(255)
+    shapeColor = (random(255),random(255),random(255))
 }
