@@ -1,4 +1,4 @@
-
+let shapeColor = "blue"
 let shapeSize = 5
 
 
@@ -12,5 +12,5 @@ function mouseDragged () {
     ellipse(mouseX,mouseY,shapeSize,shapeSize)
 }
 function mouseReleased () {
-    
+
 }
