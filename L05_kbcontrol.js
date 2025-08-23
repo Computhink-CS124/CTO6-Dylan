@@ -7,7 +7,7 @@ function setup(){
 ;    noStroke();
 }
 function draw() {
-    
+    rectSize(width/2, )
 
 }
 function keyReleased () {
