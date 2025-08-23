@@ -11,3 +11,6 @@ function mouseDragged () {
     shapeSize + 5
     ellipse(mouseX,mouseY,shapeSize,shapeSize)
 }
+function mouseReleased () {
+    
+}
