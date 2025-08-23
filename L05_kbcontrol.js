@@ -11,7 +11,7 @@ function draw() {
 
 
 }
-function mouseDragged () {
+function keyDragged () {
     shapeSize += 0.3;
     ellipse(mouseX,mouseY,shapeSize,shapeSize)
 
