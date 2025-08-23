@@ -1,4 +1,5 @@
 let shapeColor = ""
+let shapeSize = 5
 
 
 function setup(){
