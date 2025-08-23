@@ -4,15 +4,7 @@ function setup(){
 }
 
 function draw(){
-    fill(0, 255, 0);
-    ellipse(300,0,100,100);
-    fill(255, 222, 0);
-    ellipse(300,-100,100,100);
-    fill(255, 0, 0);
-    ellipse(300,-200,1000,100);
-
-
-
+    ellipse()
 
 
     // Todo: Challenge 3 Traffic Light
