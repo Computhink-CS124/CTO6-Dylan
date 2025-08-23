@@ -8,5 +8,5 @@ background(200);
 }
 
 function mousePressed () {
-    
+    shapeSize
 }
