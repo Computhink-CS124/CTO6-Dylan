@@ -4,7 +4,7 @@ function setup(){
 }
 
 function draw(){
-    circle(300,200,400)
+    circle(300,200,100)
 
 
     // Todo: Challenge 3 Traffic Light
