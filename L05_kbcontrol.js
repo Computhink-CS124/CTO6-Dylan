@@ -3,7 +3,7 @@ let shapeSize = 5;
 
 
 function setup(){
-    createCanvas(1500,400)
+    createCanvas(3000,3000)
     background(220);
     noStroke();
 }
