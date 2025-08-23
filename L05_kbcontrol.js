@@ -2,9 +2,9 @@ let rectSize = 50;
 
 
 function setup(){
-    createCanvas(600,400)
+    createCanvas(600,600);
     background(220);
-    noStroke();
+;    noStroke();
 }
 function draw() {
 
