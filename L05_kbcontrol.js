@@ -1,4 +1,4 @@
-let shapeColor = ""
+
 let shapeSize = 5
 
 
@@ -8,5 +8,5 @@ background(200);
 }
 
 function mousePressed () {
-    shapeSize
+    shapeSize + 0.5
 }
