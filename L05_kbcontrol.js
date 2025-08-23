@@ -7,7 +7,7 @@ function setup(){
 ;    noStroke();
 }
 function draw() {
-    rectSize(width/2, )
+    rectSize(width/2,height/2 )
 
 }
 function keyReleased () {
@@ -16,5 +16,5 @@ function keyReleased () {
 
 }
 function keyPressed () {
-
+    rectSize = 100;
 }
