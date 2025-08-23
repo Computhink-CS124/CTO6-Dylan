@@ -11,7 +11,7 @@ function draw() {
 
 }
 function mouseDragged () {
-    shapeSize += 0.5;
+    shapeSize += 0.3;
     ellipse(mouseX,mouseY,shapeSize,shapeSize)
 
 }
